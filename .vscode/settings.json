@@ -1,9 +1,8 @@
 {
+  "emmet.triggerExpansionOnTab": true,
   "emmet.includeLanguages": {
-    "javascript": "javascriptreact"
-  },
-  "files.associations": {
-    "*.js": "javascriptreact"
-  },
-  "emmet.triggerExpansionOnTab": true
+    "javascript": "javascriptreact",
+    "javascriptreact": "html",
+    "jsx": "html"
+  }
 }
